@@ -1,0 +1,25 @@
+{
+  "name": "demobin",
+  "version": "0.0.1",
+  "description": "demoBin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zygeilit/demoBin.git"
+  },
+  "bin": {
+    "demobin": "./bin/index.js"
+  },
+  "author": {
+    "email": "zygeilit@icoud.com",
+    "name": "zhangyue"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zygeilit/demoBin/issues"
+  },
+  "homepage": "https://github.com/zygeilit/demoBin#readme"
+}
